@@ -1,7 +1,7 @@
 # Train-Ride-Game
 Game based on TrainRide form COMP250 @ McGill University
 
-Open-source code on https://github.com/TheBigSasha/COMP250_Assignment_2_PUBLISHED_DEBUGGER/blob/master/README.md
+Open-source code on https://github.com/TheBigSasha/COMP250_Assignment_2_PUBLISHED_DEBUGGER
 Some classes not open source.
 
 # For Mac
