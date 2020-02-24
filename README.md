@@ -1,6 +1,9 @@
 # Train-Ride-Game
 Game based on TrainRide form COMP250 @ McGill University
 
+Open-source code on https://github.com/TheBigSasha/COMP250_Assignment_2_PUBLISHED_DEBUGGER/blob/master/README.md
+Some classes not open source.
+
 # For Mac
 Run Curel Trains.app
 
